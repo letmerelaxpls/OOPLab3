@@ -1,0 +1,8 @@
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.AssemblyReference.cache
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.CoreCompileInputs.cache
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe.config
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab3\OOPLab3\bin\Debug\OOPLab3.pdb
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab3\OOPLab3\obj\Debug\OOPLab3.exe
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPLab3\OOPLab3\obj\Debug\OOPLab3.pdb
